@@ -1,5 +1,5 @@
 # Music Genre Classification
-Automatically classify different musical genres using Deep Learning
+Automatically classify different musical genres.
 
 https://data-flair.training/blogs/python-project-music-genre-classification/
 
