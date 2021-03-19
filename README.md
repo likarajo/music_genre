@@ -1,4 +1,4 @@
-# Music Genre Classification
+# Music Genre Classification (in progress)
 Automatically classify different musical genres.
 
 https://data-flair.training/blogs/python-project-music-genre-classification/
